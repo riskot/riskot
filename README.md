@@ -1,4 +1,3 @@
-#Riskot
 I am merely Riskot, nothing else
 
 <!---
