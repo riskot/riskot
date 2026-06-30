@@ -1,4 +1,4 @@
-I am merely Riskot, nothing else
+Hello world
 
 <!---
 riskot/riskot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
